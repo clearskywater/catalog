@@ -1,3 +1,5 @@
+# Developed an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users have the ability to post, edit and delete their own items.
+
 Steps to run the program:
 1. install python 
 2. install Vagrant and VirtualBox
